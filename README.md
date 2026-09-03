@@ -187,7 +187,7 @@ OUTPUT:
 
 Contributions are welcome and encouraged! Feel free to submit [Pull Requests](https://github.com/hueristiq/xurlfind3r/pulls) or report [Issues](https://github.com/hueristiq/xurlfind3r/issues). For more details, check out the [contribution guidelines](https://github.com/hueristiq/xurlfind3r/blob/master/CONTRIBUTING.md).
 
-A big thank you to all the [contributors](https://github.com/hueristiq/xurlfind3r/graphs/contributors) for your ongoing support!
+A big thank you to all the [contributors](https://github.com/hueristiq/xurlfind3r/graphs/contributors) for your ongoing support! .
 
 ![contributors](https://contrib.rocks/image?repo=hueristiq/xurlfind3r&max=500)
 
